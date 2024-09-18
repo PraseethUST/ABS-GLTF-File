@@ -1,0 +1,8 @@
+Model Information:
+* title:	shelf
+* source:	https://sketchfab.com/3d-models/shelf-a552cbda49274d4c87b34533abb1dcfc
+* author:	pharloom_ (https://sketchfab.com/pharloom_)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
