@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coco Cola bottle
+* source:	https://sketchfab.com/3d-models/coco-cola-bottle-e6e7fb7401e44e34836d07f74642467e
+* author:	ahmeteruyar (https://sketchfab.com/ahmeteruyar)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coco Cola bottle" (https://sketchfab.com/3d-models/coco-cola-bottle-e6e7fb7401e44e34836d07f74642467e) by ahmeteruyar (https://sketchfab.com/ahmeteruyar) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

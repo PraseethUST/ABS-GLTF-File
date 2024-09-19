@@ -1,0 +1,8 @@
+Model Information:
+* title:	3D Scanned Apple
+* source:	https://sketchfab.com/3d-models/3d-scanned-apple-ec50ad4a227d4df980a105a29abd61df
+* author:	a-python-script (https://sketchfab.com/a-python-script)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
