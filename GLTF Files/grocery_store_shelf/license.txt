@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grocery store Shelf
+* source:	https://sketchfab.com/3d-models/grocery-store-shelf-fe8010f2d2e4495599506deb4af9da9d
+* author:	mizorri93 (https://sketchfab.com/mizorri93)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grocery store Shelf" (https://sketchfab.com/3d-models/grocery-store-shelf-fe8010f2d2e4495599506deb4af9da9d) by mizorri93 (https://sketchfab.com/mizorri93) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
