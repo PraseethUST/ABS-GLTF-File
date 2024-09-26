@@ -1,0 +1,11 @@
+Model Information:
+* title:	gondola supermarket
+* source:	https://sketchfab.com/3d-models/gondola-supermarket-861f6f8ce49046bc9c0dfd5b3db3ccc8
+* author:	DarksProducer (https://sketchfab.com/eduardo-dudu2001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gondola supermarket" (https://sketchfab.com/3d-models/gondola-supermarket-861f6f8ce49046bc9c0dfd5b3db3ccc8) by DarksProducer (https://sketchfab.com/eduardo-dudu2001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

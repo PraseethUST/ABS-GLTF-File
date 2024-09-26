@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shopping Trolley
+* source:	https://sketchfab.com/3d-models/shopping-trolley-5770a906c5004041b65604126e71b620
+* author:	MehraN (https://sketchfab.com/mehran1500)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shopping Trolley" (https://sketchfab.com/3d-models/shopping-trolley-5770a906c5004041b65604126e71b620) by MehraN (https://sketchfab.com/mehran1500) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

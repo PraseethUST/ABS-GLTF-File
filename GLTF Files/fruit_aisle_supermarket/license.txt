@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fruit Aisle Supermarket
+* source:	https://sketchfab.com/3d-models/fruit-aisle-supermarket-0a492669a92f4b7ba6510b1ee864100d
+* author:	patritevi (https://sketchfab.com/patritevi)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fruit Aisle Supermarket" (https://sketchfab.com/3d-models/fruit-aisle-supermarket-0a492669a92f4b7ba6510b1ee864100d) by patritevi (https://sketchfab.com/patritevi) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
